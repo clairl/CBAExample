@@ -1,0 +1,7 @@
+---
+title: ""
+format: docx
+editor: visual
+---
+
+The square root of $X^2$ is $X$.
