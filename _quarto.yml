@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "CBAExample"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Teaching.qmd
+        text: Teaching
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
