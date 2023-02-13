@@ -3,6 +3,6 @@ title: "Teaching"
 editor: visual
 ---
 
-I have taught 6 courses
+I have taught 8 courses
 
 $X^2$
